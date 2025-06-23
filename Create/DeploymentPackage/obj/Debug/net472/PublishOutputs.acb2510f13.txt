@@ -1,0 +1,4 @@
+C:\Users\UmeshJyani\Music\Power Apps Package\Create\DeploymentPackage\bin\Debug\net472\pdpublish\DeploymentPackage.dll
+C:\Users\UmeshJyani\Music\Power Apps Package\Create\DeploymentPackage\bin\Debug\net472\pdpublish\DeploymentPackage.pdb
+C:\Users\UmeshJyani\Music\Power Apps Package\Create\DeploymentPackage\bin\Debug\net472\pdpublish\PkgAssets\ImportConfig.xml
+C:\Users\UmeshJyani\Music\Power Apps Package\Create\DeploymentPackage\bin\Debug\net472\pdpublish\PkgAssets\manifest.ppkg.json

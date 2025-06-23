@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = DeploymentPackage
+build_property.ProjectDir = C:\Users\UmeshJyani\Music\Power Apps Package\Create\DeploymentPackage\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
