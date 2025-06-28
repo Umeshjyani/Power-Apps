@@ -1,3 +1,4 @@
+
 1.create new folder and install the Pac.
 
 2. or install form here  
@@ -21,14 +22,12 @@
 
 6. pic this solution and past in the package folder that we need to make for the share solutions.
 
-*****************************************************************************************
-
-Create an AppSource package for your app-
+*************************Create An AppSource Package For Your App********************************
 
 https://learn.microsoft.com/en-us/power-platform/developer/appsource/create-package-app
 
 Video Link to build AppSource package
-https://aka.ms/cepackage
+	https://aka.ms/cepackage
 
 ******************************************************************************************
 
